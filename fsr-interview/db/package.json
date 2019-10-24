@@ -4,7 +4,7 @@
   "description": "Setup the app's database schema.",
   "author": "Galvanize",
   "dependencies": {
-    "knex": "^0.10.0",
+    "knex": "^0.19.5",
     "pg": "^4.5.1"
   }
 }
