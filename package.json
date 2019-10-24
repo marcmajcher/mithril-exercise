@@ -24,7 +24,7 @@
   "homepage": "https://github.com/gSchool/Instructor-Technical-Interview#readme",
   "dependencies": {
     "chai": "^3.5.0",
-    "eslint": "^3.2.2",
+    "eslint": ">=4.18.2",
     "eslint-watch": "^2.1.14",
     "mocha": "^3.0.0"
   }
