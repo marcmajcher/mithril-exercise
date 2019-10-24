@@ -14,7 +14,7 @@
     "chai-http": "^3.0.0",
     "ejs": "^2.3.4",
     "express": "^4.14.0",
-    "knex": "^0.9.0",
+    "knex": "^0.19.5",
     "locus": "^1.2.0",
     "method-override": "^2.3.5",
     "mithril": "^0.2.5",
