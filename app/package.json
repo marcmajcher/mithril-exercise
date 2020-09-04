@@ -17,7 +17,7 @@
     "knex": "^0.19.5",
     "locus": "^1.2.0",
     "method-override": "^2.3.5",
-    "mithril": "^0.2.5",
+    "mithril": "^2.0.4",
     "morgan": "^1.6.1",
     "pg": "^4.4.3"
   }
